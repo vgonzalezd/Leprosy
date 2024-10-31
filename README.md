@@ -6,6 +6,7 @@ It is a joint project between Colombia-Germany-France.
 It is available at: https://XXX
 
 ## Demo Webpage
-A video of the demo web page can be found in this repository: Webpage.mp4
+A video of the demo web page can be found in this repository
+![demo](https://github.com/user-attachments/assets/fd362869-32a8-4fb6-9c97-3455b2ee3094)
 You can try our demo at: https://XXX
 
