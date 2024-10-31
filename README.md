@@ -6,7 +6,7 @@ It is a joint project between Colombia-Germany-France.
 It is available at: https://XXX
 
 ## Weights
-The weights are currently available under:
+The weights are currently available under: https://drive.google.com/drive/folders/10gBdoFOz6xRkam8knoLj1Ed0J0yOceIr?usp=sharing
 
 
 ## Demo Webpage
