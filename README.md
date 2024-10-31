@@ -5,6 +5,10 @@ It is a joint project between Colombia-Germany-France.
 ## Data
 It is available at: https://XXX
 
+## Weights
+The weights are currently available under:
+
+
 ## Demo Webpage
 A video of the demo web page can be found in this repository
 ![demo](https://github.com/user-attachments/assets/fd362869-32a8-4fb6-9c97-3455b2ee3094)
